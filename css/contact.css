@@ -38,6 +38,7 @@
 }
 .mail {
   float: left;
+  text-transform:lowercase;
 }
 a {
   text-decoration: none;
